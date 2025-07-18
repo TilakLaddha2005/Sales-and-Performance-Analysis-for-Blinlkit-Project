@@ -37,6 +37,9 @@ Dashboard includes:
 - Outlet size and location contributions
 - Rating vs sales comparisons
 
+![Dashboard](https://github.com/TilakLaddha2005/Sales-and-Performance-Analysis-for-Blinlkit-Project/blob/main/images/Dashboard.png?raw=true)
+
+
 ## Python EDA
 
 Performed using Pandas, Matplotlib, and Seaborn:
